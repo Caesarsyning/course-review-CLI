@@ -1,0 +1,6 @@
+/**
+ *	Remember to update the name of the rootProject name to 
+ *  match what the JAR name should be in the homework
+ */
+
+rootProject.name = 'SDEStarterRepository'
