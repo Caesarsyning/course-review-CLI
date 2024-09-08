@@ -3,4 +3,4 @@
  *  match what the JAR name should be in the homework
  */
 
-rootProject.name = 'SDEStarterRepository'
+rootProject.name = 'Course_Review'
