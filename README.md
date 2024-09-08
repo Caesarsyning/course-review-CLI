@@ -46,3 +46,8 @@ This project follows a **3-tier architecture**:
 1. **Presentation Layer**: CLI for user interaction (System.out and System.in).
 2. **Business Logic Layer**: Handles data processing, validation, and formatting.
 3. **Data Layer**: Manages the SQLite database and interacts with the UVA Developer API.
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
